@@ -22,12 +22,12 @@ provided (randomly generated).
   5. CalculationsEvt.java - Generating and populating the numbers on quiz question and then then checking the inputted answer against correct by calling the calculations behind the scenes.
   
     
-**Screen Shots**</br>
-  Main Screen:</br>
-  ![image](https://user-images.githubusercontent.com/13279722/211939076-024a4229-ec0d-41bc-b52a-39f29ba4fa80.png)
+**Select Screen Shots**</br>
+  --> _Main Screen:_</br>
+  ![image](https://user-images.githubusercontent.com/13279722/211943143-438f6f48-a783-4058-8dd4-b4d3b479eaea.png)
   
-  Quiz Card:</br>
-  ![image](https://user-images.githubusercontent.com/13279722/211939736-2c7ce4b0-c362-4e36-97a3-e7f6c4fcef00.png)
+  --> _Quiz Card:_</br>
+  ![image](https://user-images.githubusercontent.com/13279722/211943746-ddebd94b-accb-4545-9680-3bb16837c01b.png)
 
 
     
