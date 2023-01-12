@@ -22,12 +22,17 @@ provided (randomly generated).
   5. CalculationsEvt.java - Generating and populating the numbers on quiz question and then then checking the inputted answer against correct by calling the calculations behind the scenes.
   
     
-**Select Screen Shots**</br>
-  --> _Main Screen:_</br>
-  ![image](https://user-images.githubusercontent.com/13279722/211943143-438f6f48-a783-4058-8dd4-b4d3b479eaea.png)
+**How To Run (In The Terminal)**</br>
+  1. Download code to a location (i.e. Desktop).
+  2. Right click on the folder and select "Open In Terminal."
+  3. In the terminal, navigate to the "src" folder (using "cd src" in the terminal).
+  4. Type "java MainScreenGUI" 
+  --> The window to begin the quiz will appear. 
   
-  --> _Quiz Card:_</br>
-  ![image](https://user-images.githubusercontent.com/13279722/211943746-ddebd94b-accb-4545-9680-3bb16837c01b.png)
+  **Demo**</br>
+ 
+https://user-images.githubusercontent.com/13279722/212093670-5b8da827-b3fc-4351-8919-bd285dc95dc4.mp4
+
 
 
     
