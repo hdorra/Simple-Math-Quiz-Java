@@ -25,7 +25,7 @@ provided (randomly generated).
 **How To Run (In The Terminal)**</br>
   1. Download code to a location (i.e. Desktop).
   2. Right click on the folder and select "Open In Terminal."
-  3. In the terminal, navigate to the "src" folder (using "cd src" in the terminal).
+  3. In the terminal, navigate to the folder which contains the code.
   4. Type "java MainScreenGUI" 
   --> The window to begin the quiz will appear. 
   
